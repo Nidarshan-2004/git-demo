@@ -1,3 +1,3 @@
 this is a github demo
 <br>
-by nidarshan
+by Nidarshan Reddy
