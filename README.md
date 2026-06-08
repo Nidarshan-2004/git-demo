@@ -1,3 +1,7 @@
 this is a github demo
+<br> \
+Author
 <br>
-by Nidarshan Reddy
+by Nidarshan Reddy 
+<br>
+
